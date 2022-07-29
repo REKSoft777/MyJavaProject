@@ -1,0 +1,23 @@
+El Kallab Ralph
+163500.0
+4
+20   amzn
+12   goog
+11   aapl
+21   msft
+Chayeb Joe
+22660.0
+2
+12 amzn
+63 goog
+Z8ayb Anthony
+155000
+1
+100 aapl
+Karam Johnny
+0
+4
+10 amzn
+10 goog
+10 msft
+40 aapl
